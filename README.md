@@ -39,7 +39,7 @@ Rúbrica para el ejercicio:
 
 ## Explicacion del código 
 
-El programa en `Pitagorica.cpp` está diseñado para encontrar e imprimir triples pitagóricos específicos que representan los lados de un triángulo rectángulo. Un triple pitagórico es un conjunto de tres números enteros positivos \(a\), \(b\) y \(c\) tal que \(a^2 + b^2 = c^2\).
+El programa en `main.cpp` está diseñado para encontrar e imprimir triples pitagóricos específicos que representan los lados de un triángulo rectángulo. Un triple pitagórico es un conjunto de tres números enteros positivos \(a\), \(b\) y \(c\) tal que \(a^2 + b^2 = c^2\).
 
 
 
